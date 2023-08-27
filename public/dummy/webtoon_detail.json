@@ -1,0 +1,121 @@
+{
+  "webtoons" : [
+    {
+      "id" : 1,
+      "title" : "마왕학원의-부적합자-Ⅱ",
+      "artist" : "실버 링크",
+      "genre" : ["순정","학교"],
+      "score" : "마족과 인간의 전쟁을 막은 아노스의 앞에 나타난 것은\n포학의 마왕을 소멸시킬 새로운 '신들의 아이'였다.\n\n수많은 부조리에도 개의치 않는 <부적합자>의 새로운 싸움이 시작된다.\n'평화로운 시대에 전생해서 나도 적당히란 걸 배웠거든'",
+      "thumbnail" : "https://i.namu.wiki/i/ToMcdRmULBf3UW_03VUMCj295geUCO3CuixfR45EhOG0EqSpfMYRXepPtj1e6JefTSkjKnhXR6VdF318UqArZA.webp",
+      "bgthumbnail" : "https://pbs.twimg.com/media/EcPDX_OUEAAYjVx?format=jpg&name=large"
+    },
+    {
+      "id" : 2,
+      "title" : "사신 도련님과 검은 메이드 2기",
+      "artist" : "김태호",
+      "genre" : ["로맨스","액션"],
+      "score" : 9.2,
+      "thumbnail" : "https://i.namu.wiki/i/b5baU2iNkix55SKZQn-nrFq1CAPgb4wRKzyb1LZxFTIq-1QdVZAgyn7Zwz8KFSJ_VkIcW4ywwjYbW8j4_uZ-zA.webp",
+      "bgthumbnail" : "https://an2-img.amz.wtchn.net/image/v2/ShWUEC-6Vs6r9MJKFE2KiQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmFXMWhaMlV2TVRZNE9EVXlORFEwTURVeE1qVXlOemc1TXlKOS5NZ3NXang5V3ZfVGhRVUpmOGVibUMwX1lzcEN2Zl9ubU9NY3NBU21NUnlV"
+    },
+    {
+      "id" : 3,
+      "title" : "좀100 ~좀비가 되기 전에 하고 싶은 100가지~",
+      "artist" : "유재석",
+      "genre" : ["다크","스릴러"],
+      "score" : "악덕 기업에서 몸과 마음이 만신창이가 된 입사 3년 차인 텐도 아키라는 경리인 오오토리에게 좋아하는 마음도 고백하지 못한 채 절망적인 나날을 보내고 있었다. 그러던 어느 날 갑자기 거리에 좀비 팬데믹이 발생! 그 순간 아키라는 오늘부터 회사에 안 가도 된다는 생각이 들었고 하고 싶은 일을 할 수 있다는 생각에 신이 난다. 악덕 기업에서 벗어나 새롭게 부활한 아키라의 좀비가 되기 전에 하고 싶은 100가지가 이제부터 시작된다!",
+      "thumbnail" : "https://i.namu.wiki/i/DzwIcK_RWP4dx3WNjTAH7GST0P4GP3bzb8tP1ev1_rWLxKq7xbpOLlr0s76Rwma3nJilHtkEqclLXH992yDxzOHWTW3iTZh9B3L6KQFwK464Pwcn2cY0LaPGOz8wqQFqJI_-QKctAZSAXGGGiu21Ww.webp",
+      "bgthumbnail" : "https://occ-0-420-1001.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABUGC6qQVLxJcZ5WSf1Wj21BJRQ1T_Fwe8Obyd847qVWo-w2a8oupeNSdzvy9URPsyw_nOyklpTIa4vc08o5oTbLBnS6vl6w3WL8K.jpg?r=b76"
+    },
+    {
+      "id" : 4,
+      "title" : "한끼줍쇼",
+      "artist" : "BTS",
+      "genre" : ["코믹","액션"],
+      "score" : 6.7,
+      "thumbnail" : "http://t1.daumcdn.net/cartoon/58A6AC20042CC40002",
+      "bgthumbnail" : "https://pbs.twimg.com/media/EcPDX_OUEAAYjVx?format=jpg&name=large"
+    },
+    {
+      "id" : 5,
+      "title" : "냉장고를 부탁해",
+      "artist" : "트와이스",
+      "genre" : ["순정","감동"],
+      "score" : 8.8,
+      "thumbnail" : "http://t1.daumcdn.net/cartoon/589C32130248A30001",
+      "bgthumbnail" : "https://pbs.twimg.com/media/EcPDX_OUEAAYjVx?format=jpg&name=large"
+    },
+    {
+      "id" : 6,
+      "title" : "비정상회담",
+      "artist" : "박명수",
+      "genre" : ["요리","감동"],
+      "score" : 9.7,
+      "thumbnail" : "http://t1.daumcdn.net/cartoon/58F5CCB9012FF90001",
+      "bgthumbnail" : "https://pbs.twimg.com/media/EcPDX_OUEAAYjVx?format=jpg&name=large"
+    },
+    {
+      "id" : 7,
+      "title" : "골목식당",
+      "artist" : "여자친구",
+      "genre" : ["추리","액션"],
+      "score" : 9.2,
+      "thumbnail" : "http://t1.daumcdn.net/webtoon/op/8cc3b938d6d1c665f7e19b5949c3161e85d8b41d",
+      "bgthumbnail" : "https://pbs.twimg.com/media/EcPDX_OUEAAYjVx?format=jpg&name=large"
+    },
+    {
+      "id" : 8,
+      "title" : "나 혼자 산다",
+      "artist" : "위너",
+      "genre" : ["순정","액션"],
+      "score" : 9.3,
+      "thumbnail" : "http://i1.cartoon.daumcdn.net/svc/image/U03/cartoon/566A81290233790001",
+      "bgthumbnail" : "https://pbs.twimg.com/media/EcPDX_OUEAAYjVx?format=jpg&name=large"
+    },
+    {
+      "id" : 9,
+      "title" : "라디오 스타",
+      "artist" : "윤종신",
+      "genre" : ["코믹","액션"],
+      "score" : 9.4,
+      "thumbnail" : "http://i1.cartoon.daumcdn.net/svc/image/U03/cartoon/55E5573D0213590002",
+      "bgthumbnail" : "https://pbs.twimg.com/media/EcPDX_OUEAAYjVx?format=jpg&name=large"
+    },
+    {
+      "id" : 10,
+      "title" : "주술회전 1기",
+      "artist" : "윤종신",
+      "genre" : ["코믹","액션"],
+      "score" : 9.4,
+      "thumbnail" : "https://i.namu.wiki/i/1m4Mrtk5x3vR0kcjHcGmWen6C4HdJM7LLkb1BtCRJoc6LhkiGjahei9lcbPYyE5WH4_T6sB70z9BBk-eJ9yF_pLgUFdgXfCSXlZSqcY015T7XkVjQv-ZsyYoC8rnvdktqqFFA8MSauTPonwGCoNbUQ.webp",
+      "bgthumbnail" : "https://i.ytimg.com/vi/NClR6lveYic/maxresdefault.jpg"
+    },
+    {
+      "id" : 11,
+      "title" : "귀멸의 칼날 1기",
+      "artist" : "윤종신",
+      "genre" : ["코믹","액션"],
+      "score" : 9.4,
+      "thumbnail" : "https://image.tving.com/upload/cms/caip/CAIP0900/P001227842.jpg/dims/resize/480",
+      "bgthumbnail" : "https://an2-img.amz.wtchn.net/image/v2/164OpIZTbqcYBKolTKXHbQ.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmFXMWhaMlV2TVRZeE5UZzNOamd4TmpNeU5qRXpORFE0T1NKOS5uRERMQV9XN2VRd3NHd2lBT0o1NnY2M3UxeTduR1FKeS1iY1JVVTlIZVJ3"
+    },
+    {
+      "id" : 12,
+      "title" : "귀멸의 칼날 : 환락의 거리편",
+      "artist" : "윤종신",
+      "genre" : ["코믹","액션"],
+      "score" : 9.4,
+      "thumbnail" : "https://i.namu.wiki/i/mStkmkiaHRpLDFeBei_urLVYf10thVBxQAazlc3I5BGXk7pmaVRixQEh5ztf6j9Gk9uKkwfqfvKK-Ja9xrWKoA.webp",
+      "bgthumbnail" : "https://an2-img.amz.wtchn.net/image/v2/njj3ztQwRoxbNv_XmLamvA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1KbklsMHNJbkFpT2lJdmRqSXZjM1J2Y21VdmFXMWhaMlV2TVRZek56ZzROek13TWpJME5qVXdOekV3T1NKOS5qM2R6NTlYMXRZWDNuc0xHN2tfd3hNakxndlJwanRGVW00VGw3Vmk4RDBZ"
+    },
+    {
+      "id" : 13,
+      "title" : "귀멸의 칼날 : 도공 마을편",
+      "artist" : "윤종신",
+      "genre" : ["코믹","액션"],
+      "score" : "「도공의 마을」로 향한 탄지로. 귀살대 최강의 검사 《 주 》 계급인 하주 토키토 무이치로와 연주 칸로지 미츠리 와의 재회- 그리고, 뒤흔들리는 혈귀의 그림자!!",
+      "thumbnail" : "https://an2-img.amz.wtchn.net/image/v2/SpHlkesRKDdRFbwDyFsuvA.jpg?jwt=ZXlKaGJHY2lPaUpJVXpJMU5pSjkuZXlKdmNIUnpJanBiSW1SZk56STVlREV3T0RCeE9EQWlYU3dpY0NJNklpOTJNaTl6ZEc5eVpTOXBiV0ZuWlM4eE5qZ3hNVEl5TVRVME5USTFPREkwTURRMUluMC5DdElLQlljX042U2ZwQThDYnM4eXZ3OE53aGRQRjZNQXlMaTJkMm9Ld2Zv",
+      "bgthumbnail" : "https://image-cdn.hypb.st/https%3A%2F%2Fkr.hypebeast.com%2Ffiles%2F2022%2F12%2Fdemon-slayer-kimetsu-no-yaiba-season-3-swordsmith-village-arc-release-info-tw2.jpg?w=960&cbr=1&q=90&fit=max"
+    }
+  ]
+}
